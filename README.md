@@ -25,9 +25,6 @@ Nikmati musik yang menyenangkan selama menjelajahi perbatasan Aurelius:
 
 [Putar Musik](https://example.com) <!-- Ganti dengan link musik yang kamu inginkan -->
 
-## Kontak
-Jika kamu memiliki pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungiku di [email@example.com](mailto:email@example.com).
-
 Terima kasih telah mengunjungi! Selamat berpetualang di perbatasan Aurelius!
 
 
